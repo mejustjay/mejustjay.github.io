@@ -28,6 +28,7 @@ function draw() {
     ball.collide();
     ball.move();
     ball.display();
+
   });
 }
 
